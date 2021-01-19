@@ -40,3 +40,12 @@ Test your installation
 django-admin --version
 // 3.1.5
 ```
+
+Start Application
+
+```
+cd tutorial/
+python manage.py runserver
+```
+
+You're Welcome !
