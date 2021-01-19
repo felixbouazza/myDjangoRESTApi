@@ -1,6 +1,6 @@
-# myDjangoRESTApi
+# 🐍 Hey welcome on my Django Rest Application 🐍
 
-### Requirements
+## Requirements
 
 You need to install virtualenv on your machine 
 
