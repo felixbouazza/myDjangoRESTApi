@@ -31,7 +31,7 @@ source venv/bin/activate
 Install dependencies
 
 ```
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 
 Test your installation
