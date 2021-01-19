@@ -12,10 +12,9 @@ virtualenv --version
 If you need to install 
 
 ```
-pip install virtualenv
+pip install virtualenv 
 ```
-
-or 
+or
 
 ```
 python3 -m pip install virtualenv
